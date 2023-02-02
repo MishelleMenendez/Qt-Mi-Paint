@@ -33,7 +33,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>21</height>
+     <height>22</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuArchivo">
@@ -76,7 +76,6 @@
    </attribute>
    <addaction name="actionColor"/>
    <addaction name="actionAncho"/>
-   <addaction name="separator"/>
    <addaction name="actionLibre"/>
    <addaction name="actionLineas"/>
    <addaction name="actionRect_nculos"/>
